@@ -54,6 +54,6 @@ As a full-stack developer, I specialize in the **MERN Stack** (MongoDB, Express.
 <a href="https://www.facebook.com/profile.php?id=100070986080793" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
 </a>
-<a href="https://yourwebsite.com" target="_blank">
+<!--<a href="https://yourwebsite.com" target="_blank">
   <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=wordpress&logoColor=white" alt="Website">
-</a>
+</a>-->
