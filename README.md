@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👨‍💻 Hi, I'm Chibuike Wisdom. A Software Technician & MERN Stack Developer 🚀
+# 👨‍💻 Hi, I'm Chukwubuikem Wisdom. A Software Technician & MERN Stack Developer 🚀
 
 I have a strong background in **IT Support**, **Computer Networking**, and **Software Installation & Troubleshooting**. Over the years, I've honed my skills in providing high-quality tech support and optimizing systems for businesses and individuals.
 
