@@ -24,16 +24,7 @@ I'm always looking for ways to **learn**, **contribute**, and **help others grow
 
 #
 
-# 🌐 Get in touch across the web:
-
-<a href="https://x.com/vanstecX" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="20" alt="X logo" />
-  @vanstecX
-</a>
-  
-<a href="https://chukwubuikem.dev" target="_blank">Chukwubuikem.dev</a> 🌐
-
- Feel free to reach out, connect, or collaborate — I'm open to opportunities and conversations!
+Feel free to reach out, connect, or collaborate — I'm open to opportunities and conversations!
 
 
 <!--### My Projects:
