@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👨‍💻 Hi, I'm Chukwubuikem Wisdom — Software Developer & IT Specialist 🚀
----
+-
 
 I started out fixing systems, providing **IT Support**, **Networking**, and **System Troubleshooting** across various operating systems — helping individuals and businesses solve real-world tech challenges.
 
@@ -22,10 +22,10 @@ Today, I design and build **modern full-stack applications**, crafting **robust*
 I'm passionate about **building tech that elevates people** and contributing to a growing developer community. I enjoy working with **React.js**, **Node.js**, **REST APIs**, and **GraphQL**.  
 I'm always looking for ways to **learn**, **contribute**, and **help others grow** in the tech world — whether through projects, collaboration, or community efforts.
 
----
+-
 
 ### 🌐 Get in touch across the web:
----
+-
 
 - 🐦 <a href="https://x.com/vanstecX" target="_blank">X</a>  
 - 🌍 <a href="https://chukwubuikem.dev" target="_blank">Chukwubuikem.dev</a>
