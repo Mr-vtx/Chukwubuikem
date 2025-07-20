@@ -44,16 +44,3 @@ As a full-stack developer, I specialize in the **MERN Stack** (MongoDB, Express.
 -->
 ---
 
-## 📱 Connect with Me:
-<a href="https://www.linkedin.com/in/chibuike-w-a1b951301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://www.instagram.com/evans_wis?igsh=MTUxZzliNTR1MjJiZg=" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-<a href="https://www.facebook.com/profile.php?id=100070986080793" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-</a>
-<!--<a href="https://yourwebsite.com" target="_blank">
-  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=wordpress&logoColor=white" alt="Website">
-</a>-->
